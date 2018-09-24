@@ -2,7 +2,7 @@
 
 ## Operation
 
-Command line function to translate a series of Unicode strings from one arrangement to another. It operates on a file editing in place (one argument). It has a look up table with a before and after syntax `before:after`i.e. `q:1` would replace the `q` with`1`. a third optional argument can change the delimiter.
+Command line function to translate a series of Unicode strings from one arrangement to another. It operates on a file editing in place (one argument). It has a look up table with a before and after syntax `before:after`i.e. `q:1` would replace the `q` with`1` (a second argument). a third optional argument can change the delimiter.
 
 ## Tests
 
